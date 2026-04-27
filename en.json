@@ -1,0 +1,71 @@
+{
+  "title": "Neigh Replay",
+
+  "nav.home": "Home",
+  "nav.films": "Films",
+  "nav.about": "About Us",
+  "nav.features": "Features",
+  "nav.contact": "Contact",
+
+  "hero.title": "Stream Without Reins",
+  "hero.subtitle": "Where stories run wild and time flies when you’re having fun",
+  "hero.cta": "Browse Films",
+
+  "home.featured": "Featured Films",
+
+  "newsletter.title": "Stay in the Loop",
+  "newsletter.subtitle": "Get exclusive picks — hold your horses… the best is just starting!",
+  "newsletter.cta": "Subscribe",
+
+  "film1.name": "Midnight Gallop",
+  "film1.desc": "A runaway tale that hits the ground running — blink and you’ll miss a beat, because this story doesn’t just unfold, it bolts.",
+  "film1.price": "Now Streaming",
+  "film1.meta": "Drama • 2h 10m",
+
+  "film2.name": "Stable Genius",
+  "film2.desc": "A sharp-witted satire that plays its cards close to the chest — and then flips the table when you least expect it.",
+  "film2.price": "Now Streaming",
+  "film2.meta": "Comedy • 1h 45m",
+
+  "film3.name": "Rein Check",
+  "film3.desc": "A twist-filled thriller where nothing holds the reins for long — just when you think you’ve got it figured out, it changes tack.",
+  "film3.price": "Now Streaming",
+  "film3.meta": "Thriller • 2h",
+
+  "films.title": "Our Films",
+
+  "features.title": "Streaming Features",
+
+  "feature1.name": "Personalized Recommendations",
+  "feature1.desc": "We know your taste like the back of our hand — or at least we’re getting there. Sit back and let us do the heavy lifting while you reap the rewards.",
+
+  "feature2.name": "Multi-Device Streaming",
+  "feature2.desc": "Watch anywhere, anytime — whether you’re on the go or glued to the couch, we’ve got all bases covered.",
+
+  "feature3.name": "Offline Downloads",
+  "feature3.desc": "No signal? No problem. Download and watch later — because when push comes to shove, your shows should stick with you.",
+
+  "about.title": "About Neigh Replay",
+  "about.story": "Neigh Replay was built for those who don’t just watch stories — they live them. We believe streaming should be seamless, immersive, and always one step ahead of the curve.",
+  "about.mission": "Our mission is to bring unforgettable stories to your screen without missing a beat. Whether you’re chasing thrills or winding down, we’re here to keep things rolling.",
+
+  "contact.title": "Contact Us",
+  "contact.text": "Got questions, feedback, or just want to break the ice? We’re all ears — don’t be shy.",
+  "contact.nameLabel": "Your Name",
+  "contact.emailLabel": "Email Address",
+  "contact.messageLabel": "Message",
+  "contact.cta": "Send Message",
+  "contact.name": "John Doe",
+  "contact.email": "you@example.com",
+  "contact.message": "Your message...",
+  "contact.follow": "Stay Connected",
+  "contact.phoneLabel": "Phone",
+
+  "hero.img": "assets/images/en/hero.jpg",
+  "film1.img": "assets/images/en/film1.jpg",
+  "film2.img": "assets/images/en/film2.jpg",
+  "film3.img": "assets/images/en/film3.jpg",
+  "feature1.img": "assets/images/en/streaming_feature1.jpg",
+  "feature2.img": "assets/images/en/streaming_feature2.jpg",
+  "feature3.img": "assets/images/en/streaming_feature3.jpg"
+}

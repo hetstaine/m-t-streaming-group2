@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title data-i18n="title">Neigh Replay</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="navbar">
+  <div class="container">
+    <a href="index.html" class="logo">
+      <img src="assets/images/logo.png" alt="Neigh Replay Logo">
+    </a>
+    <nav>
+      <ul>
+        <li><a href="index.html" data-i18n="nav.home">Home</a></li>
+        <li><a href="films.html" data-i18n="nav.films">Films</a></li>
+        <li><a href="about.html" data-i18n="nav.about">About Us</a></li>
+        <li><a href="features.html" data-i18n="nav.features">Features</a></li>
+        <li><a href="contact.html" data-i18n="nav.contact">Contact</a></li>
+      </ul>
+    </nav>
+    <select id="langSwitcher">
+      <option value="en">EN</option>
+      <option value="uk">UK</option>
+    </select>
+  </div>
+</header>
+
+<section class="hero">
+  <img src="assets/images/en/hero.jpg" data-i18n-img="hero.img">
+  <div class="hero-text">
+    <h1 data-i18n="hero.title">Stream Without Reins</h1>
+    <p data-i18n="hero.subtitle">Where stories run wild...</p>
+    <a href="films.html" class="cta-btn" data-i18n="hero.cta">Browse Films</a>
+  </div>
+</section>
+
+<section class="featured">
+  <h2 data-i18n="home.featured">Featured Films</h2>
+
+  <div class="product-grid">
+    <div class="product-card">
+      <img src="assets/images/en/film1.jpg" data-i18n-img="film1.img">
+      <h3 data-i18n="film1.name">Midnight Gallop</h3>
+      <p data-i18n="film1.desc"></p>
+      <p class="price" data-i18n="film1.price"></p>
+      <p class="sizes" data-i18n="film1.meta"></p>
+    </div>
+  </div>
+</section>
+
+<section class="newsletter">
+  <h2 data-i18n="newsletter.title">Stay in the Loop</h2>
+  <p data-i18n="newsletter.subtitle">Get exclusive picks — hold your horses… the best is just starting!</p>
+  <form>
+    <input type="email" placeholder="Email address" data-i18n-placeholder="contact.email">
+    <button type="submit" data-i18n="newsletter.cta">Subscribe</button>
+  </form>
+</section>
+
+<script src="app.js"></script>
+</body>
+</html>
